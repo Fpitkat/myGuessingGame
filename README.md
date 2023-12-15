@@ -1,4 +1,4 @@
-#Guess The Number Game
+# Guess The Number Game
 
 This is a simple number guessing game implemented in JavaScript. The game generates a random number between 1 and 20, and the player's goal is to guess this number.
 
